@@ -1,1 +1,5 @@
-Meu primeiro repositório Git.
+Unix
+Bash
+Git
+HTML
+CSS
