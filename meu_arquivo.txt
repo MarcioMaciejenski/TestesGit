@@ -1,1 +1,4 @@
-Meu primeiro repositório Git.
+Unix
+Bash
+Git
+Também aprenderemos muito sobre softskills.
